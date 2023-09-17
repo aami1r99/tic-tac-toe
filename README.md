@@ -2,8 +2,6 @@
 
 Tic Tac Toe game
 
-Some chnages has been made
-
 ## GUI of game
 
 ![Gui](https://user-images.githubusercontent.com/52067673/83345735-36b9e200-a334-11ea-942e-d9dda5586477.png)
